@@ -1,5 +1,5 @@
 # WIP And Prototype
-
+Check releases for apk file
 ## Unity <img src="https://www.svgrepo.com/show/331626/unity.svg" width="30" height="30" />
 
 Fishing game : 
