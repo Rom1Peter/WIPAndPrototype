@@ -13,3 +13,8 @@ Plane Runner :
 
 - Subway surfer like with 9 ways
 - Two types of gameplay (Runner Game, Vertical shoot 'em up)
+
+Paint Runner :
+
+- Game released on Google Play Store.
+- https://play.google.com/store/apps/details?id=com.PopolimoGames.PaintRunner&gl=US
